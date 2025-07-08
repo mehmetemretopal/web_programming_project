@@ -1,0 +1,77 @@
+﻿@model IEnumerable<authenticatedapp.Models.Blog>
+
+<div class="container py-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="text-primary mb-0">Blogs <span class="badge bg-secondary">@ViewBag.totalBlogs</span></h2>
+
+        <form asp-action="Index" method="get" class="d-flex gap-2 align-items-center">
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="Blog ara..." name="SearchString" value="@ViewData["CurrentFilter"]">
+                <button class="btn btn-primary" type="submit">Search</button>
+            </div>
+            <a asp-action="BlogsList" class="btn btn-outline-secondary">Blog Lists</a>
+        </form>
+    </div>
+
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        @foreach (var item in Model)
+        {
+            if (item != null)
+            {
+                <div class="col">
+                    <div class="card h-100 shadow-sm hover-shadow transition">
+                        <div class="card-body">
+                            <h5 class="card-title text-primary mb-3">@item.title</h5>
+                            <p class="card-text text-muted">
+                                @(item.blogtext.Length > 85 ? item.blogtext.Substring(0, 85) + "..." : item.blogtext)
+                            </p>
+                            <div class="mt-3">
+                                <div class="d-flex align-items-center mb-2">
+                                    <i class="bi bi-person-circle me-2"></i>
+                                    <span>@item.name</span>
+                                </div>
+                                <div class="d-flex align-items-center">
+                                    <i class="bi bi-envelope me-2"></i>
+                                    <small>@item.email</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-footer bg-transparent">
+                            <a href="@Url.Action("CardDetail", "Home", new { id = item.Id })"
+                               class="btn btn-outline-primary w-100">
+                                View Details
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>
+
+<style>
+    .hover-shadow {
+        transition: all 0.3s ease;
+    }
+
+    .hover-shadow:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    }
+
+    .card {
+        border: none;
+        border-radius: 10px;
+    }
+
+    .card-title {
+        font-weight: 600;
+    }
+
+    .badge {
+        font-size: 1rem;
+        padding: 0.5rem 1rem;
+    }
+</style>
+
+

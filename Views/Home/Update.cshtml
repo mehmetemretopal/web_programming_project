@@ -1,0 +1,21 @@
+﻿@model Blog
+
+<form asp-action="Update" method="post">
+    <input type="hidden" asp-for="Id"/>
+    <div class="mb-3">
+        <label asp-for="name" class="form-label">Blog Name</label>
+        <input asp-for="name" class="form-control"/>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="title" class="form-label">Blog Title</label>
+        <input asp-for="title" class="form-control"/>
+    </div>
+    <div class="mb-3">
+        <label asp-for="blogtext" class="form-label">Blog Text</label>
+        <input asp-for="blogtext" class="form-control"/>
+    </div>
+
+
+    <button asp-action="Update" type="submit" class="btn btn-primary">Save</button>
+</form> 

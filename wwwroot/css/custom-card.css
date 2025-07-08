@@ -1,0 +1,16 @@
+﻿.custom-card {
+    border-radius: 1.5rem; /* Oval şekil için yuvarlatma */
+    border: none; /* Kenar çizgisi yok */
+    width: 33%; /* Sayfanın 3'te 1'ini kaplar */
+    height: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Hafif gölge */
+    margin: auto; /* Ortalar */
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f8f9fa; /* Hafif arka plan rengi */
+}

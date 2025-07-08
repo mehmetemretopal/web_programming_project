@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\views\\home\\blogslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:views\\home\\blogslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\viewmodel\\privacyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:viewmodel\\privacyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\viewmodel\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:viewmodel\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\views\\home\\createblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:views\\home\\createblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\views\\home\\carddetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:views\\home\\carddetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\migrations\\blogdb\\20241212093102_initialsecondary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:migrations\\blogdb\\20241212093102_initialsecondary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\wwwroot\\css\\custom-card.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:wwwroot\\css\\custom-card.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|c:\\users\\mehme\\source\\repos\\authenticatedapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CAED496D-79BE-4FD3-81FC-C2233AE97263}|authenticatedapp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VerifyEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\VerifyEmail.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeToolTip": "Views\\Account\\VerifyEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T12:39:13.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Models\\Blog.cs",
+              "RelativeToolTip": "Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:01:34.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:01:42.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogsList.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Views\\Home\\BlogsList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\BlogsList.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Views\\Home\\BlogsList.cshtml",
+              "RelativeToolTip": "Views\\Home\\BlogsList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T06:08:52.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T06:34:27.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrivacyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\ViewModel\\PrivacyViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\PrivacyViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\ViewModel\\PrivacyViewModel.cs",
+              "RelativeToolTip": "ViewModel\\PrivacyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:01:47.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:06:19.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\ViewModel\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\ViewModel\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:28:48.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:03:57.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\ViewModel\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\ViewModel\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModel\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:04:25.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Data\\BlogDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\BlogDbContext.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Data\\BlogDbContext.cs",
+              "RelativeToolTip": "Data\\BlogDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:04:00.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T07:33:32.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CardDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Views\\Home\\CardDetail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CardDetail.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Views\\Home\\CardDetail.cshtml",
+              "RelativeToolTip": "Views\\Home\\CardDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T06:06:09.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateBlog.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Views\\Home\\CreateBlog.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CreateBlog.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Views\\Home\\CreateBlog.cshtml",
+              "RelativeToolTip": "Views\\Home\\CreateBlog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T06:08:28.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "Views\\Home\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T06:37:25.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:04:09.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T07:09:51.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T10:08:25.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:03:26.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241212093102_InitialSecondary.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Migrations\\BlogDb\\20241212093102_InitialSecondary.cs",
+              "RelativeDocumentMoniker": "Migrations\\BlogDb\\20241212093102_InitialSecondary.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Migrations\\BlogDb\\20241212093102_InitialSecondary.cs",
+              "RelativeToolTip": "Migrations\\BlogDb\\20241212093102_InitialSecondary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:35:33.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:09:18.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:07:24.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "custom-card.css",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\wwwroot\\css\\custom-card.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\custom-card.css",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\wwwroot\\css\\custom-card.css",
+              "RelativeToolTip": "wwwroot\\css\\custom-card.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-13T07:13:38.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-13T07:14:13.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "account.css",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\wwwroot\\css\\account.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\account.css",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\authenticatedapp\\wwwroot\\css\\account.css",
+              "RelativeToolTip": "wwwroot\\css\\account.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-13T07:14:16.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
